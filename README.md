@@ -1,6 +1,6 @@
 # Hello, people! 👋 <br>
 I am _Razvan-Cosmin Ciobanel_.<br>
- Highly motivated Merchant Navy Third Officer, I  the Front End Developer Course at _Codecool Romania_. I am eager to improve my front end developer skills in designing, building and testing user oriented and responsive web applications.<br>
+ Highly motivated Merchant Navy Third Officer, I completed  the Front End Developer Course at _Codecool Romania_. I am eager to improve my front end developer skills in designing, building and testing user oriented and responsive web applications.<br>
  I am willing to learn new front end and back end technologies. I have a good understanding of responsive web design and SEO practices. I am a consistent person and I like to achieve my goals.
 
  ---
