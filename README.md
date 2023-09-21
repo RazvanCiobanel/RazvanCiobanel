@@ -10,7 +10,7 @@ I am _Razvan-Cosmin Ciobanel_.<br>
 
 ---
 ### GitHub stats: 
-![Razvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=razvanciobanel&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+[![Razvan's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/razvanciobanel?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razvanciobanel&layout=compact)](https://github.com/razvanciobanel/github-readme-stats)
 
