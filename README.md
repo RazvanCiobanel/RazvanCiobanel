@@ -4,6 +4,11 @@ I am _Razvan-Cosmin Ciobanel_.<br>
  I am willing to learn new front end and back end technologies. I have a good understanding of responsive web design and SEO practices. I am a consistent person and I like to achieve my goals.
 
  ---
+Hacktoberfest 2023 participant badges: 
+
+[![An image of @razvanciobanel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/razvanciobanel)](https://holopin.io/@razvanciobanel)
+ 
+ ---
  ### 📫 How to reach me?
  - [LinkedIn](https://www.linkedin.com/in/razvan-cosmin-ciobanel-18237221b/) 
  - [Personal Website](https://razvanciobanel.github.io/razvan-cosmin-ciobanel-resume/)
